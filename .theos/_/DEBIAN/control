@@ -1,0 +1,10 @@
+Package: com.miwix.count
+Name: Notification Count
+Architecture: iphoneos-arm
+Description: Display notification count instead of the "Notification Center" text on the lock screen.
+Maintainer: Lavie Gariv
+Author: Lavie Gariv
+Section: Tweaks
+Depends: mobilesubstrate
+Version: 1.0.0
+Installed-Size: 152
